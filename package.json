@@ -1,0 +1,30 @@
+{
+  "name": "plattenlabel",
+  "version": "1.0.0",
+  "description": "Eine einfache Übung zum Thema node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDaD/uebung-plattenlabel.git"
+  },
+  "keywords": [
+    "uebung",
+    "node.js",
+    "plattenlabel",
+    "musik",
+    "bands"
+  ],
+  "author": "Dominik Sigmund",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/WebDaD/uebung-plattenlabel/issues"
+  },
+  "homepage": "https://github.com/WebDaD/uebung-plattenlabel#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonfile": "^4.0.0"
+  }
+}
